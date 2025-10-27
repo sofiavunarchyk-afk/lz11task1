@@ -57,6 +57,11 @@ int main() {
 
 ```
 <img width="854" height="458" alt="image" src="https://github.com/user-attachments/assets/192c6638-5c4b-456b-8987-842c6f9dd042" />
+<img width="993" height="3460" alt="Програмування (3)" src="https://github.com/user-attachments/assets/73085ff4-52e1-49c7-89dc-39f1e863f907" />
+<img width="965" height="1729" alt="Програмування (4)" src="https://github.com/user-attachments/assets/f3da7c5d-bf4b-4a5d-bbd9-d4c7dcd11989" />
+<img width="1022" height="1782" alt="Програмування (5)" src="https://github.com/user-attachments/assets/b10044ff-1d65-4fa0-8914-1e434f2fdff9" />
+
+
 
 **Опис алгоритму:**
 Програма зчитує елементи двох матриць розміром 3×3, зберігаючи їх у двовимірних масивах. Потім за допомогою функції обчислюється сума відповідних елементів обох матриць і результат зберігається у третій матриці. Наприкінці програма виводить отриману матрицю-суму на екран.
